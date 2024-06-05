@@ -20,3 +20,5 @@ IT WILL WORK (most of the time)
 discord: itzsniper_
 please do not use this for evil. it is just a fun project to show to your classmates.
 DO NOT TRY THIS OUTSIDE OF HOME, DO NOT USE THIS WITHOUT CONSENT. CRIMINAL CHARGES CAN BE APPLIED TO YOU FOR STEALING PASSWORDS OR HACKING.
+------------------------------------------------------------------------
+Anyways the .exe file is compiled from a .c file using GCC. the file is "yay yay.c" it will be uploaded here for any people who find me suspicious.
