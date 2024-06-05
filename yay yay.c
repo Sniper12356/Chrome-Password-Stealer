@@ -17,6 +17,7 @@ int main () {
 
        case 'n' : ;
        char* executable_path = "installer.exe";
+        system(executable_path)
        int return_value = system(executable_path);
        if (return_value == 0) {
         printf("Executable was executed successfully.\n");
